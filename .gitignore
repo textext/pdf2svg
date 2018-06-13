@@ -15,3 +15,9 @@
 *.exe
 *.out
 *.app
+
+# Installer helper files
+/inst_file_list_32bits.txt
+/inst_file_list_64bits.txt
+/uninst_file_list_32bits.txt
+/uninst_file_list_64bits.txt
